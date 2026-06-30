@@ -1,8 +1,8 @@
-# Proyecto: Pizzería Don Piccolo
+# Proyecto: Topping
 
 ## Descripción del Proyecto
 
-El proyecto **“Pizzería Don Piccolo”** es un sistema de gestión para una pizzería, desarrollado en **MySQL**, que permite controlar y automatizar los procesos principales de la operación de manera básica pero funcional.  
+El proyecto **“TOPPING”** es un sistema de gestión para una pizzería, desarrollado en **MySQL**, que permite controlar y automatizar los procesos principales de la operación de manera básica pero funcional.  
 
 El sistema permite:
 
